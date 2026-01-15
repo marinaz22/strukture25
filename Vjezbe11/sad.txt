@@ -1,0 +1,6 @@
+NewYork 8804190
+WashingtonDC 689545
+Chicago 2696555
+LosAngeles 3902348
+Houston 2304580
+Phoneix 1608139

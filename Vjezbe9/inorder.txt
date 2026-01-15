@@ -1,0 +1,4 @@
+Inorder nakon insert:
+11 8 7 5 4 3 2 1 
+Inorder nakon replace:
+0 11 19 33 3 0 39 0 

@@ -1,0 +1,6 @@
+Hamburg 1845229
+Munich 1260391
+Frankfurt 650000 
+Berlin 3426354
+Koeln 963395
+Stuttgart 630305

@@ -1,0 +1,6 @@
+Melbourne 4917750
+Brisbane 2582007
+Adelaide 1387290
+Perth 2192229
+Sydney 5231147
+Canberra 667752

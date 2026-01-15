@@ -1,0 +1,5 @@
+Francuska francuska.txt
+SAD sad.txt
+Australija australija.txt
+Indija indija.txt
+Njemacka njemacka.txt
